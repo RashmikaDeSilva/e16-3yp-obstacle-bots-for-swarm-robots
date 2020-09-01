@@ -15,7 +15,7 @@ class _BotStatusCardState extends State<BotStatusCard> {
   @override
   Widget build(BuildContext context) {
     return Card(
-      color: Colors.white.withOpacity(0.6),
+      color: Colors.white.withOpacity(0.8),
       child: Container(
         height: 200.0,
         child: Padding(
